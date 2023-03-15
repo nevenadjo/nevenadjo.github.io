@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+ <rss version="2.0">
+ 	<channel>
+	<title>Novosti</title>
+  	<link>https://www.mojsajt.com</link>
+  	<description>RSS za novosti sa sajta linksajta</description>
+ 		<item>
+ 			<title>Najnoviji izleti</title>
+ 			<description>Novi izleti za april i maj!</description>
+ 			<link>http://www.link_ide_ovde.com</link>
+ 		</item>
+ 		<item>
+ 			<title>Nove slike u našoj galeriji</title>
+			<description>Pratite naše planinarske avanture!</description>
+ 			<link>http://www.Ŷoǀi_člaŶak.com</link>
+ 		</item>
+ 	</channel>
+ </rss>
