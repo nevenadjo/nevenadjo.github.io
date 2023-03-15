@@ -247,7 +247,7 @@ p{
 	display: flex;
 	justify-content: space-evenly;
 	flex-wrap: wrap;
-	margin: 0px 80px;
+	margin: 0px 75px;
 	
 }
 #photos .container:nth-child(even){
@@ -625,6 +625,9 @@ input[id="email"]{
 input[id="phone"]{
 	width: 237px;
 	margin-left: 3px !important;
+}
+.width:{
+	width:auto;
 }
 .form-center{
 	justify-content:center;
