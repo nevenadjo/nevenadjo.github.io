@@ -126,7 +126,7 @@ h1#about{
 	line-height:2px;
 }
 .quote{
-	bottom: 23%;
+	top: 75%;
 	left: 30%;
 	color: var(--light-main);
 	position:absolute;
